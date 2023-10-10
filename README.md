@@ -20,7 +20,8 @@
 <img height="200" src="https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/bff746b5-b717-4510-a57f-822750f01f74">
 
 
-🔗 [Acesse ao portifólio](https://github.com/Jhoel-Gonzalez/Jhoel-Portfolio)
+-🔗 [Acesse ao repositório](https://github.com/Jhoel-Gonzalez/Jhoel-Portfolio)<br>
+-🔗 [Acesse ao portifólio](https://jhoelportfolio.glitch.me/)
 
 
 <a href="https://github.com/Jhoel-Gonzalez">
