@@ -1,4 +1,27 @@
-### Olá Eu Sou Jhoel Gonzalez 👋
+### Olá meu nome é Jhoel Gonzalez. 😄 Sou apaixonado por tecnologia.👨‍💻
+#### Desenvolvedor Back-End - Front-End | Javascript | Node.js | Git
+
+## Sobre Mim
+- 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades.
+- 🚀 Tenho interesse em desenvolvimento Web, Back-End e mais.
+
+## Ferramentas
+- 🛠️ VSCode.
+
+## Projetos Destacados
+- Portifólio para apresentação de projetos!.<br>
+
+![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/d276531a-3bcc-4845-8e75-6611debc7f05)
+
+![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/3b9a2320-a738-4dda-b0a6-5a30f9684593)
+
+![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/ff92bfba-2ed8-43cc-a8ba-a327da1ff820)
+
+
+
+🔗 [Acesse ao portifólio](https://github.com/Jhoel-Gonzalez/Jhoel-Portfolio)
+
+
 <a href="https://github.com/Jhoel-Gonzalez">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoel-Gonzalez&theme=dracula" />
 </a>
@@ -22,4 +45,8 @@
   <a href="mailto:jhoel834@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/jhoel-gonzalez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+##
+
+Obrigado por visitar o meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato comigo. 😊
 
