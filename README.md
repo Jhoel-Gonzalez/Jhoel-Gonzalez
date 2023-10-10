@@ -6,8 +6,8 @@
 - 🚀 Tenho interesse em desenvolvimento Web, Back-End e mais.
 
 ## Ferramentas
-- 🛠️ VSCode, Insomnia.
-
+- 🛠️ VSCode. 
+- 🛠️ Insomnia.
 ## Projetos Destacados
 - Portifólio para apresentação de projetos!.<br>
 
