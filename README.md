@@ -26,10 +26,10 @@
 ##
 
 <a href="https://github.com/Jhoel-Gonzalez">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoel-Gonzalez&theme=dracula" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoel-Gonzalez&theme=dracula" />
 </a>
 <a href="https://github.com/Jhoel-Gonzalez">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhoel-Gonzalez&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhoel-Gonzalez&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
