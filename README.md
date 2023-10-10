@@ -11,12 +11,13 @@
 ## Projetos Destacados
 - Portifólio para apresentação de projetos!.<br>
 
-![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/d276531a-3bcc-4845-8e75-6611debc7f05)
+<img height="200" src="https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/d276531a-3bcc-4845-8e75-6611debc7f05"> 
 
-![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/3b9a2320-a738-4dda-b0a6-5a30f9684593)
+<img height="200" src="https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/3b9a2320-a738-4dda-b0a6-5a30f9684593">
 
-![image](https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/ff92bfba-2ed8-43cc-a8ba-a327da1ff820)
+<img height="200" src="https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/ff92bfba-2ed8-43cc-a8ba-a327da1ff820">
 
+<img height="200" src="https://github.com/Jhoel-Gonzalez/Jhoel-Gonzalez/assets/70471750/bff746b5-b717-4510-a57f-822750f01f74">
 
 
 🔗 [Acesse ao portifólio](https://github.com/Jhoel-Gonzalez/Jhoel-Portfolio)
