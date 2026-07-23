@@ -21,7 +21,7 @@
 
 
 -🔗 [Acesse ao repositório](https://github.com/Jhoel-Gonzalez/Jhoel-Portfolio)<br>
--🔗 [Acesse ao portifólio](https://jhoelportfolio.glitch.me/)
+-🔗 [Acesse ao portifólio]([https://jhoelportfolio.glitch.me/](https://jhoel-gonzalez.github.io/Jhoel-Portfolio/))
 
 ##
 
